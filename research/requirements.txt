@@ -1,0 +1,13 @@
+ccxt
+stable-baselines3[extra]
+gym
+pandas
+ta
+matplotlib
+plotly
+numpy
+requests
+fastapi
+uvicorn[standard]
+python-multipart
+asyncio
